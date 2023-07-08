@@ -1,0 +1,5 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ieu-a-970","ieu-a-822","Pancreatic cancer || id:ieu-a-822","Ulcerative colitis || id:ieu-a-970","MR Egger",51,-0.05036,0.1963,0.7986
+"2","ieu-a-970","ieu-a-822","Pancreatic cancer || id:ieu-a-822","Ulcerative colitis || id:ieu-a-970","Weighted median",51,-0.09412,0.09701,0.3319
+"3","ieu-a-970","ieu-a-822","Pancreatic cancer || id:ieu-a-822","Ulcerative colitis || id:ieu-a-970","Inverse variance weighted",51,-0.05539,0.06709,0.409
+"4","ieu-a-970","ieu-a-822","Pancreatic cancer || id:ieu-a-822","Ulcerative colitis || id:ieu-a-970","Weighted mode",51,-0.103,0.1428,0.474

@@ -1,0 +1,5 @@
+"","id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"1","ieu-a-12","ieu-a-822","Pancreatic cancer || id:ieu-a-822","Crohn's disease || id:ieu-a-12","MR Egger",82,0.2907,0.117,0.01505
+"2","ieu-a-12","ieu-a-822","Pancreatic cancer || id:ieu-a-822","Crohn's disease || id:ieu-a-12","Weighted median",82,0.1132,0.07278,0.12
+"3","ieu-a-12","ieu-a-822","Pancreatic cancer || id:ieu-a-822","Crohn's disease || id:ieu-a-12","Inverse variance weighted",82,0.105,0.04599,0.0224
+"4","ieu-a-12","ieu-a-822","Pancreatic cancer || id:ieu-a-822","Crohn's disease || id:ieu-a-12","Weighted mode",82,0.3018,0.1054,0.005318
